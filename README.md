@@ -6,6 +6,7 @@
 * abierto tu usuario de google,
 * abierto tu usuario en Claude.ai
 * abierto tu usuario de Github.com
+* abierto tu usuario de gamma.app
 
 ## El proyecto trata sobre protocolo de emergencia y evacuación para un aserradero. 
 _Lo que sigue, es un proyecto particular sobre un tema específico, y la forma de presentar y su armado, es el resultado de aplicar todo lo aprendido e integrado._
@@ -13,8 +14,8 @@ _Lo que sigue, es un proyecto particular sobre un tema específico, y la forma d
 ---
 
 ## 1. Estructura del proyecto (en google drive)
-- Manual de Protocolo de Emergencia y Evaluación.docx
-- archivo_accidentes_incidentes.xls
+- Plan de Marketing Digital con Google Ads.docx
+- Ventas Anuales Tecno.xls
 
 ---
 
@@ -72,9 +73,6 @@ _Debes respetar la siguiente consigna_
 > * Sección 3, CuadroImagen (PAGINA HORIZONTAL)
 > * Sección 4, Bibliografia y fuentes
 
-* Utiliza la siguiente imagen, lo copias y pegas en tu archivo que estás armando en la sección 3.
-> ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/layout.png "GRAFICA")
-
 * **REPASA LOS SIGUIENTE PUNTOS PARA VERIFICAR QUE HAS AGREGADO TODOS LOS DETALLES:**
 > * Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
 > * Recuerda armar la tabla de contenido y la nota al pie.
@@ -86,10 +84,13 @@ _Debes respetar la siguiente consigna_
 * La consigna:
  > * Crea una nueva hoja en tu libro de planilla de calculo.
  > * Arma una tabla dinámica con filas que tenga: tipo, marca; suma  y allí copia las columnas y datos que puedes visualizar en la siguiente imagen.
- > * Transforma en una tabla y genera un grafico.
- > * Genera los datos descriptivos.
+ > * Inserta un grafico.
+ > * Genera los datos descriptivos. (Estadísticos). En el archivo planilla de calculo que dejo a disposición, hay una hoja que muestra los titulos y debes armar las funciones, para hacer en tu propio archivo.
    
-   ![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
+A Partir de la base de datos que dejo disponible mas adelante.
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/tabla.png "TABLA Y GRAFICA")
+
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/grafica.png "TABLA Y GRAFICA")
 
 **Paso 5:**
 * Abre la aplicación gamma.app
@@ -103,19 +104,21 @@ _Debes respetar la siguiente consigna_
       # REGULAR INCOMPLETO
       ## TECNICATURA DE DESPACHO // COMERC SEGUROS // RECURSOS DIGITALES
       
-      ## Protocolo de emergencia y evacuación para un aserradero.
+      ## Plan de Marketing digital tilizando la plataformacon Google Ads.
 
-      * Se incluye el Manual de Protocolos de emergencia y evacuación para una planta industrial aserradero de madera implantada con 3000 m2 con equipos de 20 años todos en diseño de movimientos continuos, es decir doble sinfin, paralelas, y otras conectadas con encadenados, donde trabajan 30 personas.
-      * Además, dispone de calendario semanal para sostener el proceso al cual será sometido.
-      * Se incluye una planilla Indice de Frecuencia - Enero 2007 // No.Trabajadores Accidentados*1.000.000/HH Trabajadas
-      * Acompaña al plan, un sistema de control en los ejercicios físicos rutinarios a desarrollar, _verificando pulsaciones_.
+      * Se incluye el Manual del plan de marketing digital y tiene como objetivo desarrollar una estrategia integral de captación y conversión de clientes utilizando la plataforma Google Ads.
+      * Se incluye una planilla con Ventas de una empresa tecnologica que utiliza el marketing digital como estrategia comercial.
       
-      ### Se adjunta el Manual de Protocolo
-      [[Manual de Protocolo de Emergencia y Evacuación](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      ### Se adjunta el Manual del plan de marketing digital
+      [[Manual del Plan de Marketing digital](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       
-      ### Se adjunta una muestra de Control Indice de Accidentes e Incidentes
-      [[Control Indice de Accidentes e Incidentes](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
-      
+      ### Se adjunta las ventas en tecnología de empresa utilizando Plan
+      [[Ventas Anuales Tecnológicas](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+
+
+      ### Se adjunta Presentaciones del Plan de Marketing Digital
+      [[Presentaciones del Plan de Marketing Digital](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+
       ```
 
  **Paso 7:** Copiar y pegar el link del repositorio Github en la ventana del Examen
