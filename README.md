@@ -26,7 +26,7 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 
 ![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/portada.png "PORTADA")
 
-![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/indice.PNG "INDICE") 
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/indice.png "INDICE") 
 
 ![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/cuerpo.png "CUERPO DEL DOCUMENTO") 
 
