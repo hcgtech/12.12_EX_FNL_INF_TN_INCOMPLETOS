@@ -24,17 +24,17 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 * La siguiente estructura muestra las secciones y paginas más importantes. 
 * Esto quiere decir, que su documento puede tener más paginas de las mostradas aquí.
 
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/portada.png "PORTADA")
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/portada.png "PORTADA")
 
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/indice.PNG "INDICE") 
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/indice.PNG "INDICE") 
 
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/cuerpo.png "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/cuerpo.png "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/cuerpo2.png "CUERPO DEL DOCUMENTO") 
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/cuerpo2.png "CUERPO DEL DOCUMENTO") 
 
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/horiz.png "HORIZONTAL CON TABLA")
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/horiz.png "HORIZONTAL CON TABLA")
 
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/biblio.png "BIBLIOGRAFIA")
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/biblio.png "BIBLIOGRAFIA")
 
 ### 3. Estructura del Planilla de Cálculo. (PLANILLA DE CALCULO GOOGLE)
 A Partir de la base de datos que dejo disponible mas adelante.
