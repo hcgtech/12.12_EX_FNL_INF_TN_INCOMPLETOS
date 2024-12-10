@@ -38,8 +38,9 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 
 ### 3. Estructura del Planilla de Cálculo. (PLANILLA DE CALCULO GOOGLE)
 A Partir de la base de datos que dejo disponible mas adelante.
-![alt text](https://github.com/hcgtech/11.12_EX_FNL_INF_TM_COMPLETOS/blob/main/images/tablaygrafica.png "TABLA Y GRAFICA")
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/tabla.png "TABLA Y GRAFICA")
 
+![alt text](https://github.com/hcgtech/12.12_EX_FNL_INF_TN_INCOMPLETOS/blob/main/images/grafica.png "TABLA Y GRAFICA")
 ---
 
 ## 4. Instrucciones para Desarrollo e Implementación
@@ -81,9 +82,10 @@ _Debes respetar la siguiente consigna_
 
 **Paso 4:**
 * Abre la planilla de cálculo de google [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/u/0/)]
-* Abre el siguiente archivo y pega los datos en tu planilla de cálculo [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/d/17J777oPtlYyF3uhk4BLCR7oAE2LPdUMqAqQ5B9KRmNY/edit?usp=sharing)]
+* Abre el siguiente archivo y pega los datos en tu planilla de cálculo [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/d/1lC4LLIoJsoBxUiHNhfccjsP_XsRHnRxz9Xnb0Ndp33A/edit?usp=sharing)]
 * La consigna:
- > * Crea una nueva hoja en tu libro de planilla de calculo y allí copia las columnas y datos que puedes visualizar en la siguiente imagen.
+ > * Crea una nueva hoja en tu libro de planilla de calculo.
+ > * Arma una tabla dinámica con filas que tenga: tipo, marca; suma  y allí copia las columnas y datos que puedes visualizar en la siguiente imagen.
  > * Transforma en una tabla y genera un grafico.
  > * Genera los datos descriptivos.
    
